@@ -18,4 +18,5 @@ These materials are open source and free for anyone to use and adapt as they wis
 ## Previous instances
 
 Complete materials from previous versions of the course are available under
-[Releases](https://github.com/glassnotes/CPEN-400Q/releases).
+releases in the 
+[CPEN 400Q repository](https://github.com/glassnotes/CPEN-400Q/releases).
