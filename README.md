@@ -11,6 +11,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 1. [2025-09-09] Single-qubit systems; introducing PennyLane
 1. [2025-09-11] Single-qubit operations and projective measurement
 1. [2025-09-16] Projective measurements; introducing multi-qubit systems
+1. [2025-09-18] Multi-qubit states and gates
 
 ## Resources
 
