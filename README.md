@@ -12,6 +12,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 1. [2025-09-11] Single-qubit operations and projective measurement
 1. [2025-09-16] Projective measurements; introducing multi-qubit systems
 1. [2025-09-18] Multi-qubit states and gates
+1. [2025-09-23] Multi-qubit measurements, the Bell basis, and superdense coding
 
 ## Resources
 
