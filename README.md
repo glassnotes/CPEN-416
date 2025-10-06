@@ -14,6 +14,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 1. [2025-09-18] Multi-qubit states and gates
 1. [2025-09-23] Multi-qubit measurements, the Bell basis, and superdense coding
 1. [2025-09-25] Superdense coding and quantum teleportation
+1. [2025-10-07] The oracle, query complexity, and Deutsch’s algorithm
 
 ## Resources
 
