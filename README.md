@@ -17,6 +17,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 1. [2025-10-07] The oracle, query complexity, and Deutsch’s algorithm
 1. [2025-10-09] Grover’s algorithm
 1. [2025-10-14] Quantum compilation I
+1. [2025-10-16] Quantum compilation II
 
 ## Resources
 
