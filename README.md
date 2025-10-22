@@ -19,6 +19,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 1. [2025-10-14] Quantum compilation I
 1. [2025-10-16] Quantum compilation II
 1. [2025-10-21] The quantum Fourier transform (QFT)
+1. [2025-10-23] QFT and quantum phase estimation
 
 ## Resources
 
