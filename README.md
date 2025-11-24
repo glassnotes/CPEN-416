@@ -27,6 +27,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 1. [2025-11-13] Quantum channels; noise in quantum systems
 1. [2025-11-18] Intro to quantum error correction
 1. [2025-11-20] Correcting arbitrary single-qubit errors; intro to stabilizers
+1. [2025-11-25] Stabilizer codes
 
 ## Resources
 
