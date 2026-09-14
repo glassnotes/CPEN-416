@@ -7,6 +7,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 ## Lectures
 
 1. [2026-09-10] Overview and intro to gate model quantum computing
+1. [2026-09-15] Single-qubit systems; introducing PennyLane
 
 ## Resources
 
