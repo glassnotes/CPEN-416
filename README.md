@@ -21,6 +21,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 1. [2026-10-27] QFT and quantum phase estimation
 1. [2026-10-29] QPE and order finding
 1. [2026-11-03] Order finding and Shor’s algorithm
+1. [2026-11-05] Expectation values, mixed states, and density matrices
 
 ## Resources
 
