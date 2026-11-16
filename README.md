@@ -23,6 +23,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 1. [2026-11-03] Order finding and Shor’s algorithm
 1. [2026-11-05] Expectation values, mixed states, and density matrices
 1. [2026-11-12] Manipulating density matrices; quantum channels
+1. [2026-11-17] Quantum channels; noise in quantum systems 
 
 ## Resources
 
