@@ -26,6 +26,7 @@ These materials are open source and free for anyone to use and adapt as they wis
 1. [2026-11-17] Quantum channels; noise in quantum systems
 1. [2026-11-19] Noise and error channels; intro to quantum error correction
 1. [2026-11-24] Intro to quantum error correction
+1. [2026-11-26] Conditions for QEC; stabilizer codes
 
 ## Resources
 
